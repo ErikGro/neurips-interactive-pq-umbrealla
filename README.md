@@ -2,7 +2,7 @@
 [https://pq-interactive.vercel.app](https://pq-interactive.vercel.app)
 
 ## Notebook demonstrating real world example
-- [ ] TODO @Mehdi
+- [ ] TODO
 
 ## Notebook demonstrating part awareness
-- [ ] TODO @Soumya
+- [ ] TODO 

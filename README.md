@@ -12,3 +12,14 @@
 
 ## Notebook demonstrating BraTS metastasis segmentation
 [Notebook metastasis](./example_brats_mets.ipynb)
+
+
+## TODO
+- [ ] Move to koflerlab
+- [ ] bib tex
+- [ ] link description
+- [ ] description website
+- [ ] link to panoptica affiliation
+- [ ] Typo repo title
+- [ ] update playground figure
+- [ ] update playground link
